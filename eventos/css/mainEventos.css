@@ -1,0 +1,20 @@
+.carousel1 {
+    background: url("../imgs/evento_em_hotel-background.jpg");
+    width: 100%;
+    text-align: center;
+}
+
+.carousel2 {
+    background: url("../imgs/evento12-background.jpg");
+    width: 100%;
+    text-align: center;
+    
+}
+
+.carousel-inner {    
+    min-width: 100%;
+}
+
+.sobreNos {
+    margin-top: 0px;
+}

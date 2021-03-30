@@ -1,0 +1,54 @@
+.spaceTop {
+    text-align: center;
+    height: 90px;
+    color: white;
+    margin-top: 82px;
+    background: rgb(41, 40, 40);
+}
+
+#h1Head {
+    padding-top: 20px;
+}
+
+.h1Form {
+    text-align: center;
+    font-size: 24px;
+    padding-top: 20px;
+    
+}
+
+.hrForm {   
+    float: left;  
+}
+
+.containerPessoalInfo {
+    width: 40%;
+    float: left;
+    margin-left: 20px;
+    
+}
+
+.containerAccInfo {
+    width: 40%;
+    float: left;
+    margin-left: 13%;
+    
+}
+
+.floatLeft {
+    float: left;
+    text-align: center;
+    font-size: 18px;
+}
+
+.spaceTopForm{
+    margin-top: 30px;
+    
+}
+
+.spaceTopForm2 {
+    margin-top: 35px;
+    margin-left: 10px;
+}
+
+

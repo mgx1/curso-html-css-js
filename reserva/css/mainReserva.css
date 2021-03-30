@@ -1,0 +1,32 @@
+body{
+    background: url("../imgs/backgroundCenter.jpg");
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: 100%;   
+}
+
+.divBlack{
+    text-align: center;
+    height: 90px;
+    color: white;
+    margin-top: 82px;
+    background: rgb(41, 40, 40);
+}
+
+#h1Head {
+    padding-top: 20px;
+}
+
+.centerP {
+    font-size: 18px;
+    text-align: center;
+    color: white;
+}
+
+.spaceTopForm {
+    padding-top: 20px;
+}
+
+.spaceTop {
+    margin-top: 40px;
+}

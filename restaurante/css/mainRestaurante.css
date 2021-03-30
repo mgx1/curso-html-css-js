@@ -1,0 +1,23 @@
+.carouselPrincipal {
+    background: url("../imgs/restaurante-background.jpg");
+    width: 100%;
+    text-align: center;
+}
+
+.carousel-inner {    
+    min-width: 100%;
+}
+
+.divBlack {
+    padding-top: 10px;
+    text-align: center;
+    height: 50px;
+    background: rgb(41 , 40 , 40);
+    font-size: 18px;
+    color: white;
+}
+
+.menu {
+    margin-top: 10px;
+    text-align: center;
+}

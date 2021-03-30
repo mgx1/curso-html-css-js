@@ -1,0 +1,27 @@
+.carouselPrincipal {
+    background: url("../imgs/quarto1-background.jpg");
+    width: 100%;
+    text-align: center;
+}
+
+.carousel-inner {
+    
+    min-width: 100%;
+}
+
+
+.commentsQuartosBlack {
+    background: rgb(41, 40, 40);
+    float: left;
+    text-align: center;   
+    color: white;
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+.commentsQuartosWhite {
+    float: left;
+    text-align: center;   
+    font-size: 18px;
+    padding-top: 10px;
+}
